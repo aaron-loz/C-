@@ -1,0 +1,5 @@
+﻿  Win32Project1.cpp
+d:\c++\helloworldblankapp\basicwindowwin321\basicwindowwin321\win32project1.cpp(59): warning C4800: 'UINT': forcing value to bool 'true' or 'false' (performance warning)
+d:\c++\helloworldblankapp\basicwindowwin321\basicwindowwin321\win32project1.cpp(73): warning C4800: 'UINT': forcing value to bool 'true' or 'false' (performance warning)
+d:\c++\helloworldblankapp\basicwindowwin321\basicwindowwin321\win32project1.cpp(85): warning C4800: 'UINT': forcing value to bool 'true' or 'false' (performance warning)
+  BasicWindowWin321.vcxproj -> D:\C++\HelloWorldBlankApp\BasicWindowWin321\Debug\BasicWindowWin321.exe
